@@ -17,4 +17,5 @@ html {
 #navbar {
     color: #ffff;
     display: flex;
+    justify-content: space-between;
 }
