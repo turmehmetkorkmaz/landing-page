@@ -18,4 +18,21 @@ html {
     color: #ffff;
     display: flex;
     justify-content: space-between;
+    align-items: center;
+    padding: 0 0.75rem;
+    height: 70px;
+}
+#navbar ul{
+    list-style-type: none;
+    display: flex;
+    align-items: center;
+}
+
+#navbar ul a {
+    padding: 0.5rem;
+}
+
+#navbar ul  a:hover {
+    background: #336ea2;
+    border-radius: 4px;
 }
